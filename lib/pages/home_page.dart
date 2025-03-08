@@ -12,8 +12,9 @@ class HomePage extends StatelessWidget {
       body: AppContainer(
         DiceRoller(),
         colors: [
-          Color.fromARGB(255, 26, 2, 80),
-          Color.fromARGB(255, 36, 4, 80),
+          Color.fromARGB(255, 184, 186, 187),
+          Color.fromARGB(255, 6, 0, 14),
+          Color.fromARGB(255, 224, 211, 252),
         ],
       ),
     );
